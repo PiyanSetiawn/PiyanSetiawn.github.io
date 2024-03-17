@@ -35,3 +35,10 @@ hr {
 .paragraf p {
   margin-bottom: 10px;
 }
+
+h1 {
+  text-align: center;
+}
+ h3{
+  padding-top: 2rem;
+ }
