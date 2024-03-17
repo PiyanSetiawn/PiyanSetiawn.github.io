@@ -1,0 +1,37 @@
+body {
+  background-color: #fac1ea;
+}
+
+.container {
+  width: 960px;
+  margin: 50px auto;
+  background-color: aliceblue;
+}
+
+.header {
+  padding: 50px;
+}
+
+.header p {
+  margin-top: 10px;
+}
+
+h2 {
+  text-align: center;
+}
+
+hr {
+  width: 300px;
+  border-top: 3px solid lightblue;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.paragraf {
+  padding: 50px;
+}
+
+.paragraf p {
+  margin-bottom: 10px;
+}
