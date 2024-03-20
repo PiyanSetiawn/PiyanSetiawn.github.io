@@ -23,7 +23,7 @@ h2 {
 }
 
 hr {
-  width: 300px;
+  width: auto;
   border-top: 3px solid lightblue;
   margin: auto;
   margin-top: 10px;
@@ -39,10 +39,17 @@ hr {
 }
 
 h1 {
+  width: auto;
   text-align: center;
 }
- h3{
+
+h3 {
   padding-top: 2rem;
 }
 
-
+@media screen and (max-width: 768px) {
+  .container {
+    width: 90%;
+    margin: 50px auto;
+  }
+}
