@@ -1,11 +1,13 @@
 body {
+  max-width: 100%;
   background-color: #fac1ea;
 }
 
 .container {
   width: 960px;
+  height: auto;
   margin: 50px auto;
-  background-color: aliceblue;
+  background-color: rgba(234, 9, 255, 0.371);
 }
 
 .header {
@@ -41,4 +43,6 @@ h1 {
 }
  h3{
   padding-top: 2rem;
- }
+}
+
+
